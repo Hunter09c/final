@@ -1,0 +1,76 @@
+body{
+	background: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: 0px;
+}
+
+header{
+	background: white;
+	color: white;
+	padding: 8px 0px 102px 40px;
+}
+
+header img{
+	float: left;
+	display: inline;
+	margin-top: 0px;
+	margin-right: 667px;
+}
+
+nav ul{
+	float: left;
+	display: inline;
+	font-size: 30px;
+}
+
+nav ul li{
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+	width: auto;
+	padding-left: 0;
+	padding-left: 0;
+	list-style-type: none;
+	color: black;
+	
+	
+}
+
+nav ul li a{
+	color: black;
+	text-decoration: none;
+	padding-left: 0px;
+	padding-right:0px;
+	margin-left:0px;
+	margin-right: 0px;
+	
+	
+}
+
+.homered{
+		background-color: red;
+		padding: 40px 10px 40px 10px;
+		
+}
+
+.homeblack{
+	background-color: grey;
+	padding: 40px 10px 10px 6px;
+	
+	
+}
+.homeblack:hover{
+	background-color: red;
+	padding: 40px 10px 39px 6px;
+		
+}
+
+.divider{
+	background-color:red;
+	height: 5px;
+}
+
+
+
+
